@@ -1,12 +1,8 @@
-<nav style='text-align: center;'>
-  <span>St. Luke 24, 43</span> |
-  <span> C/C++ appreciator</span> |
-  <span> Nothing ever happens enjoyer <span> |
-  <span> Pantheism's nemesis
-</nav>
+<p align="center" width="100%">
+  St. Luke 24, 43</span> | C/C++ appreciator</span> | Nothing ever happens enjoyer <span> | Pantheism's nemesis
+</p>
 <hr>
-<h6 style='margin-top: 0; text-align: center;'>
+<p align="center" width="100%">
   B.S. in Computer Science and Technology
-</h6>
-
+</p>
 <img src='assets/mac_os_x.svg' alt='ico-macos-x'> 
