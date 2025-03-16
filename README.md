@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-## Project
+## Projects
 
 No projects
 
