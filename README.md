@@ -16,6 +16,12 @@
         <br> Git
       </a>
     </td>
+    <td align='center' width='96'>
+      <a href='https://github.com'>
+        <img width='48' height='48' src='assets/github.svg' alt='GitHub' />
+        <br> GitHub
+      </a>
+    </td>
   </tr>
 </table> 
 
