@@ -4,4 +4,11 @@
 <p align="center" width="100%">
   B.S. in Computer Science and Technology
 </p>
-<img src='assets/mac_os_x.svg' alt='ico-macos-x'> 
+
+## Tech Stack
+
+| Programming Languages |                          |
+| --------------------- | -----------------------  |
+| DevOps                | ![Git](./assets/git.svg) |
+
+<br> <img src='assets/mac_os_x.svg' alt='ico-macos-x'> 
