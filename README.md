@@ -10,9 +10,9 @@
 <table>
   <tr>
     <td><h3>DevOps</h3></td>
-    <td align='center' width='32'>
+    <td align='center' width='96'>
       <a href='https://git-scm.com/'>
-        <img width='32' height='32'  src='assets/git.svg' alt='Git' />
+        <img width='48' height='48' src='assets/git.svg' alt='Git' />
         <br> Git
       </a>
     </td>
