@@ -23,6 +23,21 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><h3>Markup Languages</h3></td>
+    <td align='center' width='96'>
+      <a href='https://daringfireball.net/projects/markdown/'>
+        <img width='48' height='48' src='assets/markdown.svg' alt='Markdown' />
+        <br> Markdown
+      </a>
+    </td>
+    <td align='center' width='96'>
+      <a href='https://en.wikipedia.org/wiki/HTML'>
+        <img width='48' height='48' src='assets/html5.svg' alt='HTML5' />
+        <br> HTML5
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Projects
